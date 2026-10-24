@@ -1,4 +1,4 @@
-<!-- <h1>Hi Hi 👋, I am Vadim Trubay! </h1> -->
+<!-- <h1>Hi Hi 👋, I am Vadym Trubai! </h1> -->
 
 ### Hi 👋, I am Vadym Trubai!
 
@@ -17,15 +17,15 @@ My project experience includes team and individual projects where I have worked 
 **CSS3**. <br>
 In addition, I am familiar with Agile and Scrum methodologies.
 
-*[Visit My Site](https://VadimTrubay.github.io/)
-*[Download CV](https://vadimtrubay.github.io/assets/resume/CV_Vadim_Trubay_Python_backend.pdf)
+*[Visit My Site](https://vadymtrubai.github.io/)
+*[Download CV](https://vadymtrubai.github.io/assets/resume/CV_Vadym_Trubai_Software_Dev.pdf)
 
-[![Linkedin Badge](https://img.shields.io/badge/-VadimTrubay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/vadim-trubay-146607257)](https://linkedin.com/in/vadim-trubay-146607257)
+[![Linkedin Badge](https://img.shields.io/badge/-VadymTrubai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vadim-trubay)](https://www.linkedin.com/in/vadim-trubay)
 [![Gmail Badge](https://img.shields.io/badge/-user0606user@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:user0606user@gmail.com)](mailto:user0606user@gmail.com)
 
-- 📑 My CV: [CV](https://vadimtrubay.github.io/assets/resume/CV_Vadim_Trubay_Python_backend.pdf)
-- 🎯 My Portfolio website: [Portfolio](https://VadimTrubay.github.io/)
-- 📬 My Linkedin: [Linkedin](https://linkedin.com/in/vadim-trubay-146607257)
+- 📑 My CV: [CV](https://vadymtrubai.github.io/assets/resume/CV_Vadym_Trubai_Software_Dev.pdf)
+- 🎯 My Portfolio website: [Portfolio](https://vadymtrubai.github.io/)
+- 📬 My Linkedin: [Linkedin](https://www.linkedin.com/in/vadim-trubay)
 
 ### Languages and Tools:
 <img src="./images/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
@@ -55,7 +55,7 @@ In addition, I am familiar with Agile and Scrum methodologies.
 <img src="./images/svg-original.png" title="Svg" alt="Svg" width="40" height="40"/>&nbsp;
 <img src="./images/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
 <!--[website]: -->
-![](https://raw.githubusercontent.com/VadimTrubay/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/VadimTrubay/github-stats/master/generated/languages.svg#gh-light-mode-only)&nbsp;
-![](https://raw.githubusercontent.com/VadimTrubay/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/VadimTrubay/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/VadymTrubai/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/VadymTrubai/github-stats/master/generated/languages.svg#gh-light-mode-only)&nbsp;
+![](https://raw.githubusercontent.com/VadymTrubai/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/VadymTrubai/github-stats/master/generated/overview.svg#gh-light-mode-only)
