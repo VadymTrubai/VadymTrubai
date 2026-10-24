@@ -20,12 +20,12 @@ In addition, I am familiar with Agile and Scrum methodologies.
 *[Visit My Site](https://vadymtrubai.github.io/)
 *[Download CV](https://vadymtrubai.github.io/assets/resume/CV_Vadym_Trubai_Software_Dev.pdf)
 
-[![Linkedin Badge](https://img.shields.io/badge/-VadymTrubai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vadim-trubay)](https://www.linkedin.com/in/vadim-trubay)
+[![Linkedin Badge](https://img.shields.io/badge/-VadymTrubai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vadymtrubai)](https://www.linkedin.com/in/vadymtrubai)
 [![Gmail Badge](https://img.shields.io/badge/-user0606user@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:user0606user@gmail.com)](mailto:user0606user@gmail.com)
 
 - 📑 My CV: [CV](https://vadymtrubai.github.io/assets/resume/CV_Vadym_Trubai_Software_Dev.pdf)
 - 🎯 My Portfolio website: [Portfolio](https://vadymtrubai.github.io/)
-- 📬 My Linkedin: [Linkedin](https://www.linkedin.com/in/vadim-trubay)
+- 📬 My Linkedin: [Linkedin](https://www.linkedin.com/in/vadymtrubai)
 
 ### Languages and Tools:
 <img src="./images/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
