@@ -1,6 +1,6 @@
 <!-- <h1>Hi Hi 👋, I am Vadim Trubay! </h1> -->
 
-### Hi 👋, I am Vadim Trubay!
+### Hi 👋, I am Vadym Trubai!
 
 ### 👨‍💻 About Me :
 
