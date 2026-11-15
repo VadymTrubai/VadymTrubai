@@ -4,18 +4,7 @@
 
 ### 👨‍💻 About Me :
 
-I am a Python backend developer and Javascript Full-Stack developer. <br>
-My project experience includes team and individual projects where I have worked with technologies such as
-**Python**,
-**JavaScript**,
-**Django**,
-**Flask**,
-**FastApi**,
-**React.js**,
-**Node.js**,
-**HTML5**,
-**CSS3**. <br>
-In addition, I am familiar with Agile and Scrum methodologies.
+Full-stack developer with 2+ years of commercial experience, currently Lead Developer of a team of 3 (Python/FastAPI, React/TypeScript). CURRENT PROJECT — crypto futures trading platform (Binance, Bybit) A distributed system of 10+ microservices: real-time market-data streaming, a signal generator, a strategy simulation engine and live portfolio execution, plus a web frontend. What I do: • Design and build services on FastAPI, PostgreSQL, Redis and WebSockets; asynchronous inter-service communication with FastStream (pub/sub and RPC). • Market-data pipeline: price, bar and order-book streamers over exchange WebSockets, with reconnect/backoff and health monitoring. • Simulation engine that tests strategies on live data before they reach real money; portfolio admission, risk limits and position management for live trading. • Data layer: SQLAlchemy, Alembic migrations, Unit of Work, query and index tuning on large time-series tables. • React/TypeScript frontend for real-time trading: live prices, analytics dashboards, portfolio management. • Deployment and operations: Render, Vercel, Docker, GitHub Actions, Sentry; incident investigation from logs and metrics. As Lead Developer: • Architecture decisions, task breakdown, code review and delivery. • Engineering standards: layered architecture, mandatory lint/format/type checks, targeted tests. • Introduced AI-assisted development as a team practice: Claude Code and Cursor across the full cycle, with project rules, context maps and specialised review/test agents. AI output always goes through checks and human review. Reliability patterns I work with: Outbox, idempotent consumers, Saga with compensation, retry with backoff, dead-letter queues (Redis and RabbitMQ). PREVIOUS • Tekra — Python Developer: PyQt6 desktop apps, FastAPI backends, WebSockets, JWT. • Vsiprobihy — Backend Developer (part-time): platform for running events, DB schema redesign and query optimisation. • Freelance — Django apps with role-based auth, PostgreSQL optimisation. WHAT I'M LOOKING FOR A backend or full-stack role on a high-load product with distributed systems and real-time data, where I can grow further in architecture and technical leadership.
 
 *[Visit My Site](https://vadymtrubai.github.io/)
 *[Download CV](https://vadymtrubai.github.io/assets/resume/CV_Vadym_Trubai_Software_Dev.pdf)
